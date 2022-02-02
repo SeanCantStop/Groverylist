@@ -4,4 +4,5 @@ limes
 watermelon
 milk 
 chocolate sauce 
-more lemons 
+strawberry sauce
+gummy bears
