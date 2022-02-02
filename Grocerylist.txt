@@ -2,3 +2,6 @@ oranges
 lemons 
 limes
 watermelon
+milk 
+honey 
+oats 
